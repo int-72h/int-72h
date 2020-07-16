@@ -1,4 +1,11 @@
-### Hi there 👋
+### I'm int.
+ I'm a programmer who programs in Python and a bit of C++ (although it's Valve's limited version).
+ 
+ I use Linux- Arch to be specific and I'm a fan of the UNIX philosophy as well as the 9front operating system.
+ 
+ I'm planning on working on a game- in the Godot engine.
+ 
+ I'll have a proper website up soon. But this'll do for now.
 
 <!--
 **int-72h/int-72h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
