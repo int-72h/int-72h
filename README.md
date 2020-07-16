@@ -7,4 +7,4 @@
  
  I'll have a proper website up soon, with more info on my current projects, and a 'blog'. But this'll do for now.
 
-I'm a fan of the bands New Order, Joy division and Yes. Also currently learning Hiragana.
+I'm a fan of the bands New Order, Joy Division and Yes. Also currently learning Hiragana.
